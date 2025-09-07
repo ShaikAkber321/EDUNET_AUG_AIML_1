@@ -1,3 +1,10 @@
+**Name**: SHAIK AKBER  
+**Company**: Edunet  
+**AICTE Student ID**: STU6712579fe5a9e1729255327  
+**Domain**: Python Programming  
+**Duration**: 5th June 2025 to 5th September 2025
+
+
 # EDUNET_AUG_AIML_1
 # 🌍 Environmental Monitoring & Pollution Control - ML Project
 
